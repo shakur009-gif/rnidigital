@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function () {
     otherBtn.addEventListener("click", function () {
       console.log("Other payment clicked");
       window.location.href =
-        "https://buymeacoffee.com/rnidigital/e/513653";
+        "https://t.me/VyresAdmin";
     });
   }
 

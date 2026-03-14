@@ -78,7 +78,7 @@ class PaymentModal {
   handleOtherPayment() {
     // Redireciona para o Telegram com mensagem pré-formatada
     window.location.href =
-      "https://buymeacoffee.com/rnidigital/e/513653";
+      "https://t.me/VyresAdmin";
   }
 }
 
